@@ -1,0 +1,105 @@
+{
+  "external_validation": [
+    {
+      "mae": 3.945635447277957,
+      "median_absolute_error": 3.3054221760971103,
+      "model": "elastic_net_cv",
+      "n": 729,
+      "pearson_r": 0.9823624320440405,
+      "rmse": 4.932438112399769,
+      "test_dataset": "GSE87571",
+      "train_dataset": "GSE40279"
+    },
+    {
+      "mae": 5.991779358916931,
+      "median_absolute_error": 5.182476301320563,
+      "model": "hist_gradient_boosting",
+      "n": 729,
+      "pearson_r": 0.9737104155509224,
+      "rmse": 7.2570321789248045,
+      "test_dataset": "GSE87571",
+      "train_dataset": "GSE40279"
+    },
+    {
+      "mae": 7.907903524509678,
+      "median_absolute_error": 6.139563256015265,
+      "model": "mlp",
+      "n": 729,
+      "pearson_r": 0.8973227653797902,
+      "rmse": 10.185473533568477,
+      "test_dataset": "GSE87571",
+      "train_dataset": "GSE40279"
+    },
+    {
+      "mae": 3.8475059156691973,
+      "median_absolute_error": 3.3179803728108936,
+      "model": "plain_elastic_net_baseline",
+      "n": 729,
+      "pearson_r": 0.9806515551366881,
+      "rmse": 4.689915391894604,
+      "test_dataset": "GSE87571",
+      "train_dataset": "GSE40279"
+    },
+    {
+      "mae": 4.208866993562321,
+      "median_absolute_error": 3.5992029762169864,
+      "model": "ensemble_average",
+      "n": 729,
+      "pearson_r": 0.9722543898084304,
+      "rmse": 5.178823774617521,
+      "test_dataset": "GSE87571",
+      "train_dataset": "GSE40279"
+    },
+    {
+      "mae": 3.7873084308105858,
+      "median_absolute_error": 3.067363603840093,
+      "model": "elastic_net_cv",
+      "n": 656,
+      "pearson_r": 0.9453361315999662,
+      "rmse": 5.113425196982734,
+      "test_dataset": "GSE40279",
+      "train_dataset": "GSE87571"
+    },
+    {
+      "mae": 4.760422623955433,
+      "median_absolute_error": 3.7800777389889646,
+      "model": "hist_gradient_boosting",
+      "n": 656,
+      "pearson_r": 0.9128836792579138,
+      "rmse": 6.226090073340905,
+      "test_dataset": "GSE40279",
+      "train_dataset": "GSE87571"
+    },
+    {
+      "mae": 11.28620302165849,
+      "median_absolute_error": 9.658321484945624,
+      "model": "mlp",
+      "n": 656,
+      "pearson_r": 0.743768549532181,
+      "rmse": 14.178623107772397,
+      "test_dataset": "GSE40279",
+      "train_dataset": "GSE87571"
+    },
+    {
+      "mae": 4.414150538062766,
+      "median_absolute_error": 3.591180157283091,
+      "model": "plain_elastic_net_baseline",
+      "n": 656,
+      "pearson_r": 0.9437627808352386,
+      "rmse": 5.751061209101021,
+      "test_dataset": "GSE40279",
+      "train_dataset": "GSE87571"
+    },
+    {
+      "mae": 4.953256125420761,
+      "median_absolute_error": 4.084935711542499,
+      "model": "ensemble_average",
+      "n": 656,
+      "pearson_r": 0.9077632214461371,
+      "rmse": 6.3817394217477545,
+      "test_dataset": "GSE40279",
+      "train_dataset": "GSE87571"
+    }
+  ],
+  "provenance": "make_clock.py:250-L297"
+}

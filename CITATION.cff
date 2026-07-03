@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Epigenetic Clock External Validation Study"
+authors:
+  - family-names: "Yesmagambetov"
+    given-names: "Issabay"
+    orcid: "https://orcid.org/0009-0000-4277-9524"
+version: "1.0.0"
+license: "MIT"
+doi: "[DOI PLACEHOLDER - Zenodo]"
+date-released: 2026-07-03
+repository-code: "[repository URL placeholder]"
