@@ -33,7 +33,7 @@ This study used public, de-identified Gene Expression Omnibus data from GSE40279
 
 ### Data availability
 
-The source methylation datasets are available through the Gene Expression Omnibus under accessions GSE40279 and GSE87571. The analysis code and outputs are available in the accompanying code repository and will be archived with Zenodo: [DOI PLACEHOLDER - Zenodo].
+The source methylation datasets are available through the Gene Expression Omnibus under accessions GSE40279 and GSE87571. The analysis code and outputs are openly available in the project repository (https://github.com/isabay777-dev/epigenetic-clock-external-validation) and archived at Zenodo (https://doi.org/10.5281/zenodo.21202338).
 
 ### Code availability
 
