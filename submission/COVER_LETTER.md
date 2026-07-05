@@ -1,4 +1,4 @@
-[DATE]
+5 July 2026
 
 Dear Biogerontology Editor,
 
